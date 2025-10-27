@@ -5,8 +5,6 @@ description: This resource contains the information regarding Conrad, the secret
 file: /courses/21g-061-advanced-topics-plotting-terror-in-european-culture-spring-2004/60b4a2828746ad30e4a4194a04fc9593_MIT21G_061S04_conrad.pdf
 file_size: 608628
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

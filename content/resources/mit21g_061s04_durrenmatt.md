@@ -5,8 +5,6 @@ description: "This resource contains the information regarding Friedrich D\xFCrr
 file: /courses/21g-061-advanced-topics-plotting-terror-in-european-culture-spring-2004/ba441d6b8b938c4d6cbb195b726e49b7_MIT21G_061S04_durrenmatt.pdf
 file_size: 610311
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: This resource contains the information regarding introduction.
 file: /courses/21g-061-advanced-topics-plotting-terror-in-european-culture-spring-2004/aa8a1aac41d0e9861815166d1b58d37b_MIT21G_061S04_introduction.pdf
 file_size: 575205
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

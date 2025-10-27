@@ -4,8 +4,6 @@ description: "This resource contains the information regarding Heinrich B\xF6ll.
 file: /courses/21g-061-advanced-topics-plotting-terror-in-european-culture-spring-2004/8c7dbf6d8d54a6c0da432e5e74bd4cbb_MIT21G_061S04_boll.pdf
 file_size: 648907
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
