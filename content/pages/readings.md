@@ -38,13 +38,13 @@ Fo, Dario, and Peter Kennard. *The Accidental Death of an Anarchist*. Reprint e
 
 Gillon, Adam. "The Desperate Shape of Betrayal." In *Joseph Conrad*. Boston: Twayne Publishers, 1982. ISBN 0805768203.
 
-Grimonperz, Johan. [dial H-I-S-T-O-R-Y](http://www.newmedia-art.org/cgi-bin/show-oeu.asp?ID=150000000031773&lg=FRA). 1977.
+Grimonperz, Johan. {{% resource_link "6dd5100b-839c-4ee4-bb9e-e7a8545401a9" "dial H-I-S-T-O-R-Y" %}}. 1977.
 
 Jordan, Neil. *The Crying Game.* Artisan Entertainment, 1998. ASIN: 0784011184.
 
 Kleist, Heinrich von. "Michael Kohlhaas." In *German Romantic Novellas*. New York: Continuum, 1985. ISBN 082640291.
 
-Kropotkin, Peter. "[The Spirit of Revolt](http://dwardmac.pitzer.edu/anarchist_archives/kropotkin/spiritofrevolt.html)."   
+Kropotkin, Peter. "{{% resource_link "fbbcebef-3007-4310-b286-65455cbab7f0" "The Spirit of Revolt" %}}."   
 (This article first appeared in *Le Révolté* in 1880. English translations appeared in *Commonweal*, 1892 and *Kropotkin's Revolutionary Pamphlets*, 1927.)
 
 Lentricchia, Frank and Jody McAuliffe. "Groundzeroland." in *Crimes of Art and Terror.* Chicago: University of Chicago Press, 2003. ISBN: 022647205.
